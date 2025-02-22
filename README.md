@@ -1,6 +1,3 @@
-
-
-
 ## AI & Machine Learning Series: Supervised Learning Classification - INN Hotels
 
 This project is part of the **AI & Machine Learning Series**, focusing on **Supervised Learning Classification** techniques applied to **INNHotels**, The AI Recommendation System leverages Google Cloud Platform (GCP), Machine Learning (ML), and AI to analyze customer data stored in the Customer Data Engine (CDE). The system generates personalized recommendations, enhancing user experience across the mobile app and website.
@@ -38,7 +35,7 @@ This project is part of the **AI & Machine Learning Series**, focusing on **Supe
    ```bash
    git clone https://github.com/tfiorin/project3-supervised-learning-classification-inn-hotels.git
    pip install -r requirements.txt
-   jupyter notebook supervised-learning-recell.ipynb
+   jupyter notebook Project_INNHotels.ipynb
 
 ## 📊 Dataset
 
