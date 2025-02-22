@@ -1,6 +1,6 @@
 ## AI & Machine Learning Series: Supervised Learning Classification - INN Hotels
 
-This project is part of the **AI & Machine Learning Series**, focusing on **Supervised Learning Classification** techniques applied to **INNHotels**, The AI Recommendation System leverages Google Cloud Platform (GCP), Machine Learning (ML), and AI to analyze customer data stored in the Customer Data Engine (CDE). The system generates personalized recommendations, enhancing user experience across the mobile app and website.
+This project is part of the **AI & Machine Learning Series**, focusing on **Supervised Learning Classification** techniques applied to the **INNHotels** project, The AI Recommendation System leverages Google Cloud Platform (GCP), Machine Learning (ML), and AI to analyze customer data stored in the Customer Data Engine (CDE). The system generates personalized recommendations, enhancing user experience across the mobile app and website.
 
 ## 📂 Project Structure
 
