@@ -1,17 +1,33 @@
-# project3-supervised-learning-classification-inn-hotels
-
-## INNHotels AI-Powered Recommendation System
-
-## Project Overview
+AI & Machine Learning Series: Supervised Learning Classification - INN Hotels
 The INNHotels AI Recommendation System leverages Google Cloud Platform (GCP), Machine Learning (ML), and AI to analyze customer data stored in the Customer Data Engine (CDE). The system generates personalized recommendations, enhancing user experience across the mobile app and website.
 
-## Features
-✅ Customer Data Processing: Extracting and cleaning data from the CDE.
-✅ Machine Learning Models: Training AI models to predict customer preferences.
-✅ AI-Driven Recommendations: Delivering personalized suggestions to users.
-✅ GCP Integration: Utilizing Google Cloud AI services for scalable processing.
+📂 Project Structure
+Project_INNHotels.ipynb - Jupyter Notebook containing the full implementation.
+data/ - Directory containing dataset files.
+models/ - Saved models for reuse and further evaluation.
+README.md - Documentation of the project.
+📌 Steps Covered
+1️⃣ Data Loading & Preprocessing
+Import necessary libraries
+Load dataset and explore features
+Handle missing values and feature engineering
+2️⃣ Model Selection & Training
+Choose suitable supervised learning algorithms
+Train models on the dataset
+Tune hyperparameters for performance optimization
+3️⃣ Model Evaluation
+Evaluate models using key metrics (accuracy, precision, recall, etc.)
+Compare model performances
+4️⃣ Insights & Conclusion
+Interpret results
+Discuss potential improvements
+⚡ Installation & Usage
+Clone the repository:
+git clone https://github.com/tfiorin/project3-supervised-learning-classification-inn-hotels.git
+pip install -r requirements.txt
+jupyter notebook supervised-learning-recell.ipynb
+📊 Dataset
+The dataset is used for training supervised learning models to predict specific outcomes related to ReCell. Further details can be found within the notebook.
 
-## Technology Stack
-Cloud Provider: Google Cloud Platform (GCP)
-Machine Learning: TensorFlow, Scikit-Learn
-Data Processing: Pandas, NumPy
+🛠️ Technologies Used
+Python Pandas, NumPy Scikit-learn Matplotlib, Seaborn
